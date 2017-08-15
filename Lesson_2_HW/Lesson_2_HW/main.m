@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#define SWAP(A, B) { int t = A; A = B; B = t; }
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
